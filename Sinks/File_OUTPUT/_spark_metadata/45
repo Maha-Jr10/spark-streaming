@@ -1,0 +1,3 @@
+v1
+{"path":"file:///D:/desk/ENSAF/ISDIA%20S4/BIG%20DATA%20II/TPs/TP5/spark-streaming/Sinks/File_OUTPUT/part-00000-40882cb1-8025-4ae7-8420-5b3d3ed0caf0-c000.json","size":305,"isDir":false,"modificationTime":1776455595343,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/desk/ENSAF/ISDIA%20S4/BIG%20DATA%20II/TPs/TP5/spark-streaming/Sinks/File_OUTPUT/part-00001-2adb902d-cf26-484f-ba5c-fbbf8218e995-c000.json","size":305,"isDir":false,"modificationTime":1776455595344,"blockReplication":1,"blockSize":33554432,"action":"add"}
