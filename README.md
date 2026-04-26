@@ -1,4 +1,4 @@
-# 🚀 Spark Structured Streaming – Real-Time Data Processing (Atelier 5)
+# 🚀 Spark Structured Streaming – Real-Time Data Processing
 
 [![Apache Spark](https://img.shields.io/badge/Spark-3.5.8-orange.svg)](https://spark.apache.org/)
 [![Scala](https://img.shields.io/badge/Scala-2.12.15-red.svg)](https://www.scala-lang.org/)
